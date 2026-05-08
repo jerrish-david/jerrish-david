@@ -28,4 +28,4 @@ Frontend: React, Next.js, Tailwind CSS
 Backend: Node.js, Express, Django
 AI/ML: PyTorch, TensorFlow, Scikit-learn
 Databases: PostgreSQL, MongoDB, Supabase
-Tools: Git, Docker, AWS, etc.
+Tools: Git, Docker, AWS
